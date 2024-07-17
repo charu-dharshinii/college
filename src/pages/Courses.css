@@ -1,0 +1,22 @@
+table {
+    width: 75%;
+    border-collapse: collapse;
+    margin: 30px 0;
+    text-align: center;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 20px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  footer {
+    background: #5d155d;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+  }
